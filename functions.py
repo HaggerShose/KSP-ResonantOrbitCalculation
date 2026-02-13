@@ -1,9 +1,18 @@
 import math
 
-K = 2500000  # Maximum com range of antenna
-N = 3  # Number of desired satellites
-MU = 65138398000  # Gravitational parameter of specified body
-R = 200000  # Radius of specified body
+"""
+Kerbin
+MU = 3531600000000  # Gravitational parameter of specified body in m³/s²
+R = 600000  # Radius of specified body in m
+Mun
+MU = 65198398000  # Gravitational parameter of specified body body in m³/s²
+R = 200000  # Radius of specified body in m
+"""
+
+K = 5000000  # Maximum com range of antenna
+N = 9  # Number of desired satellites
+MU = 3531600000000  # Gravitational parameter of specified body in m³/s²
+R = 600000  # Radius of specified body in m
 
 sin_term = math.sin(math.radians(180 / N))
 
