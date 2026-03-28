@@ -1,0 +1,46 @@
+3 Sats 2.5Mm range
+1 443 375.673 m = SMA_z
+1 243 375.673 m = Ap_z
+1d 05h 51m 30.418s = T_z
+
+1 101 501.793 m = SMA_tl
+759 627.914 m = R_petl
+559 627.914 m = Petl
+1d 01h 54m 20.278s = T_tl
+36.021 m/s = Delta_v_tl
+
+1 748 525.106 m = SMA_th
+2 053 674.538 m = R_apth
+1 853 674.538 m = Apth
+2d 03h 48m 40.557s = T_th
+17.792 m/s = Delta_v_th
+
+2 886 751.346 m = SMA_maxcom
+2 686 751.346 m = Ap_pe_maxcom
+
+2 041 241.452 m = SMA_mincom
+1 841 241.452 m = Ap_pe_mincom
+
+
+3 Sats 2Mm range
+1 154 700.538 m = SMA_z
+954 700.538 m = Ap_z
+1d 02h 29m 6.776s = T_z
+
+881 201.435 m = SMA_tl
+607 702.331 m = R_petl
+407 702.331 m = Petl
+0d 05h 39m 24.518s = T_tl
+40.273 m/s = Delta_v_tl
+
+1 398 820.085 m = SMA_th
+1 642 939.631 m = R_apth
+1 442 939.631 m = Apth
+1d 05h 18m 49.035s = T_th
+19.892 m/s = Delta_v_th
+
+2 309 401.077 m = SMA_maxcom
+2 109 401.077 m = Ap_pe_maxcom
+
+1 632 993.162 m = SMA_mincom
+1 432 993.162 m = Ap_pe_mincom
